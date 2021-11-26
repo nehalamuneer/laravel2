@@ -10,5 +10,6 @@
     <a href="">home</a>
     <a href="{{url('contactpage')}}">contact</a>
     <a href="{{ url('phpsamplepage')}}">place</a>
+    <img src="{{ asset('images/download.png')}}" alt="">
 </body>
 </html>
